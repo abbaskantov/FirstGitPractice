@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FirstGitPractice</string>
     <string name="toast">toast</string>
+    <string name="my_first_project_with_git">My first project with Git!</string>
 </resources>
